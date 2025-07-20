@@ -3,9 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
-  "homepage": "https://pranaynani.github.io/Social-Media",
-
+  "homepage": "https://pranay-diddi.github.io/Social-Media/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
